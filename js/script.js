@@ -3,7 +3,7 @@ const {createApp} = Vue
 createApp ({
     data(){
         return {
-            message: 'Martina'
+            message: 'Martina',
         }
     }
 }).mount('#app')
